@@ -1,6 +1,6 @@
 Data: The data for this question comes from the file Wage1.csv. This data is for various workers at the
 employee-level. We have data on their average hourly wage along with information about their years of
-education, experience, tenure (years at the same Örm), and some job/industry characteristics.
+education, experience, tenure (years at the same firm), and some job/industry characteristics.
 
 
 Analysis:
