@@ -1,0 +1,41 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\JTRAIN2_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\JTRAIN2.DTA, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\JTRAIN2.DTA
+  obs:           445                          
+ vars:            19                          17 Jan 2000 17:20
+ size:        16,910                          
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+train           byte    %9.0g                 =1 if assigned to job training
+age             byte    %9.0g                 age in 1977
+educ            byte    %9.0g                 years of education
+black           byte    %9.0g                 =1 if black
+hisp            byte    %9.0g                 =1 if Hispanic
+married         byte    %9.0g                 =1 if married
+nodegree        byte    %9.0g                 =1 if no high school degree
+mosinex         byte    %9.0g                 # mnths prior to 1/78 in expmnt
+re74            float   %9.0g                 real earns., 1974, $1000s
+re75            float   %9.0g                 real earns., 1975, $1000s
+re78            float   %9.0g                 real earns., 1978, $1000s
+unem74          byte    %9.0g                 =1 if unem. all of 1974
+unem75          byte    %9.0g                 =1 if unem. all of 1975
+unem78          byte    %9.0g                 =1 if unem. all of 1978
+---------------------------------------------------------------------------------------------------
+Sorted by: 
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\JTRAIN2_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------

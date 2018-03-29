@@ -1,0 +1,36 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\CEOSAL2_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\CEOSAL2.DTA, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\CEOSAL2.DTA
+  obs:           177                          
+ vars:            15                          17 Aug 1999 23:14
+ size:         6,549                          
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+salary          int     %9.0g                 1990 compensation, $1000s
+age             byte    %9.0g                 in years
+college         byte    %9.0g                 =1 if attended college
+grad            byte    %9.0g                 =1 if attended graduate school
+comten          byte    %9.0g                 years with company
+ceoten          byte    %9.0g                 years as ceo with company
+sales           float   %9.0g                 1990 firm sales, millions
+profits         int     %9.0g                 1990 profits, millions
+mktval          float   %9.0g                 market value, end 1990, mills.
+---------------------------------------------------------------------------------------------------
+Sorted by: 
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\CEOSAL2_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------

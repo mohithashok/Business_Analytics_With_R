@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\attend_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\attend.dta, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\attend.dta
+  obs:           680                          
+ vars:            11                          29 Jul 2005 21:00
+ size:        17,680                          (_dta has notes)
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+attend          byte    %8.0g                 classes attended out of 32
+termGPA         float   %9.0g                 GPA for term
+priGPA          float   %9.0g                 cumulative GPA prior to term
+ACT             byte    %8.0g                 ACT score
+final           byte    %8.0g                 final exam score
+frosh           byte    %8.0g                 =1 if freshman
+soph            byte    %8.0g                 =1 if sophomore
+hw              byte    %8.0g                 number of homeworks turned in out of 8
+---------------------------------------------------------------------------------------------------
+Sorted by: 
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\attend_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------
