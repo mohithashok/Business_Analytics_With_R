@@ -1,0 +1,48 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\WAGE1_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\WAGE1.DTA, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\WAGE1.DTA
+  obs:           526                          
+ vars:            24                          16 Sep 1996 15:52
+ size:        16,832                          
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+wage            float   %8.2g                 average hourly earnings
+educ            byte    %8.0g                 years of education
+exper           byte    %8.0g                 years potential experience
+tenure          byte    %8.0g                 years with current employer
+nonwhite        byte    %8.0g                 =1 if nonwhite
+female          byte    %8.0g                 =1 if female
+married         byte    %8.0g                 =1 if married
+numdep          byte    %8.0g                 number of dependents
+smsa            byte    %8.0g                 =1 if live in SMSA
+northcen        byte    %8.0g                 =1 if live in north central U.S
+south           byte    %8.0g                 =1 if live in southern region
+west            byte    %8.0g                 =1 if live in western region
+construc        byte    %8.0g                 =1 if work in construc. indus.
+ndurman         byte    %8.0g                 =1 if in nondur. manuf. indus.
+trcommpu        byte    %8.0g                 =1 if in trans, commun, pub ut
+trade           byte    %8.0g                 =1 if in wholesale or retail
+services        byte    %8.0g                 =1 if in services indus.
+profserv        byte    %8.0g                 =1 if in prof. serv. indus.
+profocc         byte    %8.0g                 =1 if in profess. occupation
+clerocc         byte    %8.0g                 =1 if in clerical occupation
+servocc         byte    %8.0g                 =1 if in service occupation
+---------------------------------------------------------------------------------------------------
+Sorted by: 
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\WAGE1_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------
