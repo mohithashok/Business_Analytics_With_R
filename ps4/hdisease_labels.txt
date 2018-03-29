@@ -1,0 +1,11 @@
+Variable name				Description
+dset						Data set
+age							Age (years)
+sex							Sex
+cp							Chest pain scale (1-4)
+trestbps					Resting blood pressure (mm Hg on admission to hospital)
+chol						Cholesterol (mg/dl)
+restecg						Resting ECG results
+thalach						Maximum heart rate (beats per min)
+exang						Exercise-induced angina
+hdisease					Heart Disease (stage 0-4)

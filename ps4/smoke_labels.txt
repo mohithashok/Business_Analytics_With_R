@@ -1,0 +1,34 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\SMOKE_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\SMOKE.DTA, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\SMOKE.DTA
+  obs:           807                          
+ vars:            10                          16 Sep 1996 16:23
+ size:        19,368                          
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+educ            float   %9.0g                 years of schooling
+cigpric         float   %9.0g                 state cig. price, cents/pack
+white           byte    %8.0g                 =1 if white
+age             byte    %8.0g                 in years
+income          int     %8.0g                 annual income, $
+cigs            byte    %8.0g                 cigs. smoked per day
+restaurn        byte    %8.0g                 =1 if rest. smk. restrictions
+---------------------------------------------------------------------------------------------------
+Sorted by: 
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\SMOKE_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------

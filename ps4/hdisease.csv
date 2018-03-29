@@ -1,0 +1,795 @@
+dset,age,sex,cp,trestbps,chol,restecg,thalach,exang,hdisease
+Switzerland,32,male,1,95,,normal,127,no,1
+Switzerland,36,male,4,110,,normal,125,yes,1
+Switzerland,38,female,4,105,,normal,166,no,2
+Switzerland,38,female,4,110,,normal,156,no,1
+Switzerland,38,male,3,100,,normal,179,no,0
+Switzerland,38,male,3,115,,normal,128,yes,1
+Switzerland,38,male,4,135,,normal,150,no,2
+Switzerland,38,male,4,150,,normal,120,yes,1
+Switzerland,40,male,4,95,,abnormal,144,no,2
+Switzerland,41,male,4,125,,normal,176,no,2
+Switzerland,42,male,4,105,,normal,128,yes,1
+Switzerland,42,male,4,145,,normal,99,yes,2
+Switzerland,43,male,4,100,,normal,122,no,3
+Switzerland,43,male,4,115,,normal,145,yes,4
+Switzerland,43,male,4,140,,abnormal,140,yes,2
+Switzerland,45,male,3,110,,normal,138,no,0
+Switzerland,46,male,4,100,,abnormal,133,no,1
+Switzerland,46,male,4,115,,normal,113,yes,1
+Switzerland,47,male,3,110,,normal,120,yes,1
+Switzerland,47,male,3,155,,normal,118,yes,3
+Switzerland,47,male,4,110,,abnormal,149,no,2
+Switzerland,47,male,4,160,,normal,124,yes,1
+Switzerland,48,male,4,115,,normal,128,no,2
+Switzerland,50,female,4,160,,normal,110,no,1
+Switzerland,50,male,4,115,,normal,120,yes,3
+Switzerland,50,male,4,120,,abnormal,156,yes,3
+Switzerland,50,male,4,145,,normal,139,yes,1
+Switzerland,51,female,4,120,,normal,127,yes,2
+Switzerland,51,male,4,110,,normal,92,no,4
+Switzerland,51,male,4,120,,normal,104,no,3
+Switzerland,51,male,4,130,,normal,170,no,2
+Switzerland,51,male,4,130,,abnormal,163,no,1
+Switzerland,51,male,4,140,,normal,60,no,2
+Switzerland,51,male,4,95,,normal,126,no,2
+Switzerland,52,male,4,130,,normal,120,no,2
+Switzerland,52,male,4,135,,normal,128,yes,2
+Switzerland,52,male,4,165,,normal,122,yes,2
+Switzerland,52,male,4,95,,normal,82,yes,2
+Switzerland,53,male,2,120,,normal,95,no,3
+Switzerland,53,male,2,130,,abnormal,120,no,0
+Switzerland,53,male,3,105,,normal,115,no,1
+Switzerland,53,male,3,160,,lv hypertropy,122,yes,1
+Switzerland,53,male,4,120,,normal,120,no,1
+Switzerland,53,male,4,125,,normal,120,no,4
+Switzerland,53,male,4,130,,lv hypertropy,135,yes,2
+Switzerland,53,male,4,80,,normal,141,yes,0
+Switzerland,54,male,4,120,,normal,155,no,2
+Switzerland,54,male,4,130,,normal,110,yes,3
+Switzerland,54,male,4,180,,normal,150,no,1
+Switzerland,55,male,2,140,,abnormal,150,no,0
+Switzerland,55,male,4,115,,normal,155,no,1
+Switzerland,55,male,4,120,,abnormal,92,no,4
+Switzerland,55,male,4,140,,normal,83,no,2
+Switzerland,56,male,3,120,,normal,97,no,0
+Switzerland,56,male,3,125,,normal,98,no,2
+Switzerland,56,male,3,155,,abnormal,99,no,2
+Switzerland,56,male,4,115,,abnormal,82,no,1
+Switzerland,56,male,4,120,,abnormal,100,yes,2
+Switzerland,56,male,4,120,,abnormal,148,no,2
+Switzerland,56,male,4,125,,normal,103,yes,3
+Switzerland,56,male,4,140,,normal,121,yes,1
+Switzerland,57,male,3,105,,normal,148,no,1
+Switzerland,57,male,4,110,,abnormal,131,yes,3
+Switzerland,57,male,4,140,,normal,120,yes,2
+Switzerland,57,male,4,140,,normal,100,yes,3
+Switzerland,57,male,4,160,,normal,98,yes,2
+Switzerland,57,male,4,95,,normal,182,no,1
+Switzerland,58,male,4,115,,normal,138,no,1
+Switzerland,58,male,4,130,,abnormal,100,yes,4
+Switzerland,58,male,4,170,,abnormal,105,yes,1
+Switzerland,59,male,3,125,,normal,175,no,1
+Switzerland,59,male,4,110,,normal,94,no,3
+Switzerland,59,male,4,120,,normal,115,no,2
+Switzerland,59,male,4,125,,normal,119,yes,1
+Switzerland,59,male,4,135,,normal,115,yes,1
+Switzerland,60,male,3,115,,normal,143,no,1
+Switzerland,60,male,4,125,,normal,110,no,3
+Switzerland,60,male,4,130,,abnormal,130,yes,1
+Switzerland,60,male,4,135,,normal,63,yes,3
+Switzerland,60,male,4,160,,abnormal,99,yes,3
+Switzerland,60,male,4,160,,normal,149,no,1
+Switzerland,61,male,3,200,,abnormal,70,no,3
+Switzerland,61,male,4,105,,normal,110,yes,1
+Switzerland,61,male,4,110,,normal,113,no,1
+Switzerland,61,male,4,125,,normal,105,yes,3
+Switzerland,61,male,4,130,,lv hypertropy,115,no,3
+Switzerland,61,male,4,130,,normal,77,no,3
+Switzerland,61,male,4,150,,normal,105,yes,1
+Switzerland,61,male,4,150,,normal,117,yes,2
+Switzerland,61,male,4,160,,abnormal,145,no,2
+Switzerland,62,female,1,140,,normal,143,no,2
+Switzerland,62,female,4,120,,abnormal,123,yes,1
+Switzerland,62,male,1,120,,lv hypertropy,134,no,1
+Switzerland,62,male,3,160,,normal,72,yes,3
+Switzerland,62,male,4,115,,normal,128,yes,2
+Switzerland,62,male,4,115,,normal,72,yes,1
+Switzerland,62,male,4,150,,abnormal,78,no,3
+Switzerland,63,male,4,100,,normal,109,no,1
+Switzerland,63,male,4,140,,lv hypertropy,149,no,2
+Switzerland,63,male,4,150,,normal,86,yes,3
+Switzerland,63,male,4,150,,abnormal,154,no,3
+Switzerland,63,male,4,185,,normal,98,yes,1
+Switzerland,64,female,4,200,,normal,140,yes,3
+Switzerland,64,female,4,95,,normal,145,no,1
+Switzerland,64,male,4,110,,normal,114,yes,1
+Switzerland,65,male,4,115,,normal,93,yes,1
+Switzerland,65,male,4,145,,abnormal,67,no,3
+Switzerland,65,male,4,155,,normal,154,no,0
+Switzerland,65,male,4,160,,abnormal,122,no,3
+Switzerland,66,female,4,155,,normal,90,no,1
+Switzerland,66,male,4,150,,normal,108,yes,3
+Switzerland,67,male,1,145,,lv hypertropy,125,no,2
+Switzerland,68,male,4,135,,abnormal,120,yes,3
+Switzerland,68,male,4,145,,normal,136,no,1
+Switzerland,69,male,4,135,,normal,130,no,1
+Switzerland,70,male,4,115,,abnormal,92,yes,1
+Switzerland,70,male,4,140,,normal,157,yes,3
+Switzerland,72,male,3,160,,lv hypertropy,114,no,0
+Switzerland,73,female,3,160,,abnormal,121,no,1
+Switzerland,74,male,2,145,,abnormal,123,no,1
+Hungary,28,male,2,130,132,lv hypertropy,185,no,0
+Hungary,29,male,2,120,243,normal,160,no,0
+Hungary,30,female,1,170,237,abnormal,170,no,0
+Hungary,31,female,2,100,219,abnormal,150,no,0
+Hungary,32,female,2,105,198,normal,165,no,0
+Hungary,32,male,2,110,225,normal,184,no,0
+Hungary,32,male,2,125,254,normal,155,no,0
+Hungary,33,male,3,120,298,normal,185,no,0
+Hungary,34,female,2,130,161,normal,190,no,0
+Hungary,34,male,2,150,214,abnormal,168,no,0
+Hungary,34,male,2,98,220,normal,150,no,0
+Hungary,35,female,1,120,160,abnormal,185,no,0
+Hungary,35,female,4,140,167,normal,150,no,0
+Hungary,35,male,2,120,308,lv hypertropy,180,no,0
+Hungary,35,male,2,150,264,normal,168,no,0
+Hungary,36,male,2,120,166,normal,180,no,0
+Hungary,36,male,3,112,340,normal,184,no,0
+Hungary,36,male,3,130,209,normal,178,no,0
+Hungary,36,male,3,150,160,normal,172,no,0
+Hungary,37,female,2,120,260,normal,130,no,0
+Hungary,37,female,3,130,211,normal,142,no,0
+Hungary,37,female,4,130,173,abnormal,184,no,0
+Hungary,37,male,2,130,283,abnormal,98,no,0
+Hungary,37,male,3,130,194,normal,150,no,0
+Hungary,37,male,4,120,223,normal,168,no,0
+Hungary,37,male,4,130,315,normal,158,no,0
+Hungary,38,female,2,120,275,normal,129,no,0
+Hungary,38,male,2,140,297,normal,150,no,0
+Hungary,38,male,3,145,292,normal,130,no,0
+Hungary,39,female,3,110,182,abnormal,180,no,0
+Hungary,39,male,2,120,200,normal,160,yes,0
+Hungary,39,male,2,120,204,normal,145,no,0
+Hungary,39,male,2,190,241,normal,106,no,0
+Hungary,39,male,3,120,339,normal,170,no,0
+Hungary,39,male,3,160,147,normal,160,no,0
+Hungary,39,male,4,110,273,normal,132,no,0
+Hungary,39,male,4,130,307,normal,140,no,0
+Hungary,40,male,2,130,275,normal,150,no,0
+Hungary,40,male,2,140,289,normal,172,no,0
+Hungary,40,male,3,130,215,normal,138,no,0
+Hungary,40,male,3,130,281,normal,167,no,0
+Hungary,41,female,2,110,250,abnormal,142,no,0
+Hungary,41,female,2,125,184,normal,180,no,0
+Hungary,41,female,2,130,245,normal,150,no,0
+Hungary,41,male,2,120,291,abnormal,160,no,0
+Hungary,41,male,2,120,295,normal,170,no,0
+Hungary,41,male,2,125,269,normal,144,no,0
+Hungary,41,male,4,112,250,normal,142,no,0
+Hungary,42,female,3,115,211,abnormal,137,no,0
+Hungary,42,male,2,120,196,normal,150,no,0
+Hungary,42,male,2,120,198,normal,155,no,0
+Hungary,42,male,2,150,268,normal,136,no,0
+Hungary,42,male,3,120,228,normal,152,yes,0
+Hungary,42,male,3,160,147,normal,146,no,0
+Hungary,42,male,4,140,358,normal,170,no,0
+Hungary,43,female,1,100,223,normal,142,no,0
+Hungary,43,female,2,120,201,normal,165,no,0
+Hungary,43,female,2,120,215,abnormal,175,no,0
+Hungary,43,female,2,120,249,abnormal,176,no,0
+Hungary,43,female,2,120,266,normal,118,no,0
+Hungary,43,female,2,150,186,normal,154,no,0
+Hungary,43,male,2,142,207,normal,138,no,0
+Hungary,44,female,4,120,218,abnormal,115,no,0
+Hungary,44,male,2,120,184,normal,142,no,0
+Hungary,44,male,2,130,215,normal,135,no,0
+Hungary,44,male,4,150,412,normal,170,no,0
+Hungary,45,female,2,130,237,normal,170,no,0
+Hungary,45,female,4,132,297,normal,144,no,0
+Hungary,45,male,2,140,224,normal,122,no,0
+Hungary,45,male,4,120,225,normal,140,no,0
+Hungary,45,male,4,140,224,normal,144,no,0
+Hungary,46,female,4,130,238,normal,90,no,0
+Hungary,46,male,2,140,275,normal,165,yes,0
+Hungary,46,male,3,120,230,normal,150,no,0
+Hungary,46,male,3,150,163,normal,116,no,0
+Hungary,46,male,4,110,238,abnormal,140,yes,0
+Hungary,46,male,4,110,240,abnormal,140,no,0
+Hungary,46,male,4,180,280,abnormal,120,no,0
+Hungary,47,female,2,140,257,normal,135,no,0
+Hungary,47,male,1,110,249,normal,150,no,0
+Hungary,47,male,2,160,263,normal,174,no,0
+Hungary,47,male,4,140,276,normal,125,yes,0
+Hungary,48,female,2,120,284,normal,120,no,0
+Hungary,48,female,3,120,195,normal,125,no,0
+Hungary,48,female,4,108,163,normal,175,no,0
+Hungary,48,female,4,120,254,abnormal,110,no,0
+Hungary,48,female,4,150,227,normal,130,yes,0
+Hungary,48,male,2,130,245,normal,160,no,0
+Hungary,48,male,2,140,238,normal,118,no,0
+Hungary,48,male,3,110,211,normal,138,no,0
+Hungary,49,female,2,124,201,normal,164,no,0
+Hungary,49,female,3,130,207,abnormal,135,no,0
+Hungary,49,male,2,100,253,normal,174,no,0
+Hungary,49,male,3,140,187,normal,172,no,0
+Hungary,49,male,4,120,297,normal,132,no,0
+Hungary,50,female,2,110,202,normal,145,no,0
+Hungary,50,female,4,120,328,normal,110,yes,0
+Hungary,50,male,2,120,168,normal,160,no,0
+Hungary,50,male,2,140,216,normal,170,no,0
+Hungary,50,male,2,170,209,abnormal,116,no,0
+Hungary,50,male,4,140,129,normal,135,no,0
+Hungary,50,male,4,150,215,normal,140,yes,0
+Hungary,51,female,2,160,194,normal,170,no,0
+Hungary,51,female,3,110,190,normal,120,no,0
+Hungary,51,female,3,130,220,normal,160,yes,0
+Hungary,51,female,3,150,200,normal,120,no,0
+Hungary,51,male,2,125,188,normal,145,no,0
+Hungary,51,male,2,130,224,normal,150,no,0
+Hungary,51,male,4,130,179,normal,100,no,0
+Hungary,52,female,2,120,210,normal,148,no,0
+Hungary,52,female,3,125,272,normal,139,no,0
+Hungary,52,female,4,130,180,normal,140,yes,0
+Hungary,52,male,2,120,284,normal,118,no,0
+Hungary,52,male,2,140,100,normal,138,yes,0
+Hungary,52,male,2,160,196,normal,165,no,0
+Hungary,52,male,3,140,259,abnormal,170,no,0
+Hungary,53,female,2,113,468,normal,127,no,0
+Hungary,53,female,2,140,216,normal,142,yes,0
+Hungary,53,female,3,120,274,normal,130,no,0
+Hungary,53,male,2,140,320,normal,162,no,0
+Hungary,53,male,3,120,195,normal,140,no,0
+Hungary,53,male,4,124,260,abnormal,112,yes,0
+Hungary,53,male,4,130,182,normal,148,no,0
+Hungary,53,male,4,140,243,normal,155,no,0
+Hungary,54,female,2,120,221,normal,138,no,0
+Hungary,54,female,2,120,230,normal,140,no,0
+Hungary,54,female,2,120,273,normal,150,no,0
+Hungary,54,female,2,130,253,abnormal,155,no,0
+Hungary,54,female,2,140,309,abnormal,140,no,0
+Hungary,54,female,2,150,230,normal,130,no,0
+Hungary,54,female,2,160,312,normal,130,no,0
+Hungary,54,male,1,120,171,normal,137,no,0
+Hungary,54,male,2,110,208,normal,142,no,0
+Hungary,54,male,2,120,238,normal,154,no,0
+Hungary,54,male,2,120,246,normal,110,no,0
+Hungary,54,male,2,160,195,abnormal,130,no,0
+Hungary,54,male,2,160,305,normal,175,no,0
+Hungary,54,male,3,120,217,normal,137,no,0
+Hungary,54,male,4,150,365,abnormal,134,no,0
+Hungary,55,female,2,110,344,abnormal,160,no,0
+Hungary,55,female,2,122,320,normal,155,no,0
+Hungary,55,female,2,130,394,lv hypertropy,150,no,0
+Hungary,55,male,2,120,256,normal,137,no,0
+Hungary,55,male,2,140,196,normal,150,no,0
+Hungary,55,male,2,145,326,normal,155,no,0
+Hungary,55,male,3,110,277,normal,160,no,0
+Hungary,55,male,3,120,220,lv hypertropy,134,no,0
+Hungary,55,male,4,120,270,normal,140,no,0
+Hungary,55,male,4,140,229,normal,110,yes,0
+Hungary,56,female,3,130,219,abnormal,164,no,0
+Hungary,56,male,2,130,184,normal,100,no,0
+Hungary,56,male,3,130,276,normal,128,yes,0
+Hungary,56,male,4,120,85,normal,140,no,0
+Hungary,57,female,1,130,308,normal,98,no,0
+Hungary,57,female,4,180,347,abnormal,126,yes,0
+Hungary,57,male,2,140,260,normal,140,no,0
+Hungary,58,male,2,130,230,normal,150,no,0
+Hungary,58,male,2,130,251,normal,110,no,0
+Hungary,58,male,3,140,179,normal,160,no,0
+Hungary,58,male,4,135,222,normal,100,no,0
+Hungary,59,female,2,130,188,normal,124,no,0
+Hungary,59,male,2,140,287,normal,150,no,0
+Hungary,59,male,3,130,318,normal,120,yes,0
+Hungary,59,male,3,180,213,normal,100,no,0
+Hungary,60,male,3,120,246,lv hypertropy,135,no,0
+Hungary,61,female,4,130,294,abnormal,120,yes,0
+Hungary,61,male,4,125,292,abnormal,115,yes,0
+Hungary,62,female,1,160,193,normal,116,no,0
+Hungary,62,male,2,140,271,normal,152,no,0
+Hungary,31,male,4,120,270,normal,153,yes,1
+Hungary,33,female,4,100,246,normal,150,yes,1
+Hungary,34,male,1,140,156,normal,180,no,1
+Hungary,35,male,2,110,257,normal,140,no,1
+Hungary,36,male,2,120,267,normal,160,no,1
+Hungary,37,male,4,140,207,normal,130,yes,1
+Hungary,38,male,4,110,196,normal,166,no,1
+Hungary,38,male,4,120,282,normal,170,no,1
+Hungary,38,male,4,92,117,normal,134,yes,1
+Hungary,40,male,4,120,466,normal,152,yes,1
+Hungary,41,male,4,110,289,normal,170,no,1
+Hungary,41,male,4,120,237,normal,138,yes,1
+Hungary,43,male,4,150,247,normal,130,yes,1
+Hungary,46,male,4,110,202,normal,150,yes,1
+Hungary,46,male,4,118,186,normal,124,no,1
+Hungary,46,male,4,120,277,normal,125,yes,1
+Hungary,47,male,3,140,193,normal,145,yes,1
+Hungary,47,male,4,150,226,normal,98,yes,1
+Hungary,48,male,4,106,263,normal,110,no,1
+Hungary,48,male,4,120,260,normal,115,no,1
+Hungary,48,male,4,160,268,normal,103,yes,1
+Hungary,49,female,3,160,180,normal,156,no,1
+Hungary,49,male,3,115,265,normal,175,no,1
+Hungary,49,male,4,130,206,normal,170,no,1
+Hungary,50,female,3,140,288,normal,140,yes,1
+Hungary,50,male,4,145,264,normal,150,no,1
+Hungary,51,female,4,160,303,normal,150,yes,1
+Hungary,52,male,4,130,225,normal,120,yes,1
+Hungary,54,male,4,125,216,normal,140,no,1
+Hungary,54,male,4,125,224,normal,122,no,1
+Hungary,55,male,4,140,201,normal,130,yes,1
+Hungary,57,male,2,140,265,abnormal,145,yes,1
+Hungary,58,male,3,130,213,abnormal,140,no,1
+Hungary,59,female,4,130,338,abnormal,130,yes,1
+Hungary,60,male,4,100,248,normal,125,no,1
+Hungary,63,male,4,150,223,normal,115,no,1
+Hungary,65,male,4,140,306,normal,87,yes,1
+Hungary,32,male,4,118,529,normal,130,no,1
+Hungary,39,male,4,110,280,normal,150,no,1
+Hungary,40,female,4,150,392,normal,130,no,1
+Hungary,43,male,1,120,291,abnormal,155,no,1
+Hungary,45,male,4,130,219,abnormal,130,yes,1
+Hungary,46,male,4,120,231,normal,115,yes,1
+Hungary,46,male,4,130,222,normal,112,no,1
+Hungary,48,male,4,122,275,abnormal,150,yes,1
+Hungary,48,male,4,160,193,normal,102,yes,1
+Hungary,48,male,4,160,329,normal,92,yes,1
+Hungary,48,male,4,160,355,normal,99,yes,1
+Hungary,50,male,4,130,233,normal,121,yes,1
+Hungary,52,male,4,120,182,normal,150,no,1
+Hungary,53,male,4,120,246,normal,116,yes,1
+Hungary,54,male,3,120,237,normal,150,yes,1
+Hungary,54,male,4,130,242,normal,91,yes,1
+Hungary,54,male,4,130,603,normal,125,yes,1
+Hungary,54,male,4,200,198,normal,142,yes,1
+Hungary,55,male,4,140,268,normal,128,yes,1
+Hungary,56,male,4,150,213,normal,125,yes,1
+Hungary,57,male,4,150,255,normal,92,yes,1
+Hungary,58,male,3,160,211,abnormal,92,no,1
+Hungary,58,male,4,130,263,normal,140,yes,1
+Hungary,41,male,4,130,172,abnormal,130,no,1
+Hungary,43,male,4,120,175,normal,120,yes,1
+Hungary,44,male,2,150,288,normal,150,yes,1
+Hungary,44,male,4,130,290,normal,100,yes,1
+Hungary,46,male,1,140,272,normal,175,no,1
+Hungary,47,female,3,135,248,normal,170,no,1
+Hungary,48,female,4,138,214,normal,108,yes,1
+Hungary,49,male,4,130,341,normal,120,yes,1
+Hungary,49,male,4,140,234,normal,140,yes,1
+Hungary,51,male,3,135,160,normal,150,no,1
+Hungary,52,male,4,112,342,abnormal,96,yes,1
+Hungary,52,male,4,130,298,normal,110,yes,1
+Hungary,52,male,4,140,404,normal,124,yes,1
+Hungary,52,male,4,160,246,abnormal,82,yes,1
+Hungary,53,male,3,145,518,normal,130,no,1
+Hungary,53,male,4,180,285,abnormal,120,yes,1
+Hungary,54,male,4,140,216,normal,105,no,1
+Hungary,55,male,2,160,292,normal,143,yes,1
+Hungary,55,male,4,145,248,normal,96,yes,1
+Hungary,56,female,2,120,279,normal,150,no,1
+Hungary,56,male,4,150,230,abnormal,124,yes,1
+Hungary,56,male,4,170,388,abnormal,122,yes,1
+Hungary,58,male,2,136,164,abnormal,99,yes,1
+Hungary,59,male,4,140,264,lv hypertropy,119,yes,1
+Hungary,65,male,4,170,263,normal,112,yes,1
+Hungary,41,male,4,120,336,normal,118,yes,1
+Hungary,43,male,4,140,288,normal,135,yes,1
+Hungary,44,male,4,135,491,normal,135,no,1
+Hungary,47,female,4,120,205,normal,98,yes,1
+Hungary,47,male,4,160,291,abnormal,158,yes,1
+Hungary,49,male,4,128,212,normal,96,yes,1
+Hungary,49,male,4,150,222,normal,122,no,1
+Hungary,50,male,4,140,231,abnormal,140,yes,1
+Hungary,50,male,4,140,341,abnormal,125,yes,1
+Hungary,52,male,4,140,266,normal,134,yes,1
+Hungary,52,male,4,160,331,normal,94,yes,1
+Hungary,54,female,3,130,294,abnormal,100,yes,1
+Hungary,56,male,4,155,342,normal,150,yes,1
+Hungary,58,female,2,180,393,normal,110,yes,1
+Hungary,65,male,4,130,275,abnormal,115,yes,1
+Cleveland,63,male,1,145,233,lv hypertropy,150,no,0
+Cleveland,67,male,4,160,286,lv hypertropy,108,yes,2
+Cleveland,67,male,4,120,229,lv hypertropy,129,yes,1
+Cleveland,37,male,3,130,250,normal,187,no,0
+Cleveland,41,female,2,130,204,lv hypertropy,172,no,0
+Cleveland,56,male,2,120,236,normal,178,no,0
+Cleveland,62,female,4,140,268,lv hypertropy,160,no,3
+Cleveland,57,female,4,120,354,normal,163,yes,0
+Cleveland,63,male,4,130,254,lv hypertropy,147,no,2
+Cleveland,53,male,4,140,203,lv hypertropy,155,yes,1
+Cleveland,57,male,4,140,192,normal,148,no,0
+Cleveland,56,female,2,140,294,lv hypertropy,153,no,0
+Cleveland,56,male,3,130,256,lv hypertropy,142,yes,2
+Cleveland,44,male,2,120,263,normal,173,no,0
+Cleveland,52,male,3,172,199,normal,162,no,0
+Cleveland,57,male,3,150,168,normal,174,no,0
+Cleveland,48,male,2,110,229,normal,168,no,1
+Cleveland,54,male,4,140,239,normal,160,no,0
+Cleveland,48,female,3,130,275,normal,139,no,0
+Cleveland,49,male,2,130,266,normal,171,no,0
+Cleveland,64,male,1,110,211,lv hypertropy,144,yes,0
+Cleveland,58,female,1,150,283,lv hypertropy,162,no,0
+Cleveland,58,male,2,120,284,lv hypertropy,160,no,1
+Cleveland,58,male,3,132,224,lv hypertropy,173,no,3
+Cleveland,60,male,4,130,206,lv hypertropy,132,yes,4
+Cleveland,50,female,3,120,219,normal,158,no,0
+Cleveland,58,female,3,120,340,normal,172,no,0
+Cleveland,66,female,1,150,226,normal,114,no,0
+Cleveland,43,male,4,150,247,normal,171,no,0
+Cleveland,40,male,4,110,167,lv hypertropy,114,yes,3
+Cleveland,69,female,1,140,239,normal,151,no,0
+Cleveland,60,male,4,117,230,normal,160,yes,2
+Cleveland,64,male,3,140,335,normal,158,no,1
+Cleveland,59,male,4,135,234,normal,161,no,0
+Cleveland,44,male,3,130,233,normal,179,yes,0
+Cleveland,42,male,4,140,226,normal,178,no,0
+Cleveland,43,male,4,120,177,lv hypertropy,120,yes,3
+Cleveland,57,male,4,150,276,lv hypertropy,112,yes,1
+Cleveland,55,male,4,132,353,normal,132,yes,3
+Cleveland,61,male,3,150,243,normal,137,yes,0
+Cleveland,65,female,4,150,225,lv hypertropy,114,no,4
+Cleveland,40,male,1,140,199,normal,178,yes,0
+Cleveland,71,female,2,160,302,normal,162,no,0
+Cleveland,59,male,3,150,212,normal,157,no,0
+Cleveland,61,female,4,130,330,lv hypertropy,169,no,1
+Cleveland,58,male,3,112,230,lv hypertropy,165,no,4
+Cleveland,51,male,3,110,175,normal,123,no,0
+Cleveland,50,male,4,150,243,lv hypertropy,128,no,4
+Cleveland,65,female,3,140,417,lv hypertropy,157,no,0
+Cleveland,53,male,3,130,197,lv hypertropy,152,no,0
+Cleveland,41,female,2,105,198,normal,168,no,0
+Cleveland,65,male,4,120,177,normal,140,no,0
+Cleveland,44,male,4,112,290,lv hypertropy,153,no,2
+Cleveland,44,male,2,130,219,lv hypertropy,188,no,0
+Cleveland,60,male,4,130,253,normal,144,yes,1
+Cleveland,54,male,4,124,266,lv hypertropy,109,yes,1
+Cleveland,50,male,3,140,233,normal,163,no,1
+Cleveland,41,male,4,110,172,lv hypertropy,158,no,1
+Cleveland,54,male,3,125,273,lv hypertropy,152,no,0
+Cleveland,51,male,1,125,213,lv hypertropy,125,yes,0
+Cleveland,51,female,4,130,305,normal,142,yes,2
+Cleveland,46,female,3,142,177,lv hypertropy,160,yes,0
+Cleveland,58,male,4,128,216,lv hypertropy,131,yes,1
+Cleveland,54,female,3,135,304,normal,170,no,0
+Cleveland,54,male,4,120,188,normal,113,no,2
+Cleveland,60,male,4,145,282,lv hypertropy,142,yes,2
+Cleveland,60,male,3,140,185,lv hypertropy,155,no,1
+Cleveland,54,male,3,150,232,lv hypertropy,165,no,0
+Cleveland,59,male,4,170,326,lv hypertropy,140,yes,2
+Cleveland,46,male,3,150,231,normal,147,no,1
+Cleveland,65,female,3,155,269,normal,148,no,0
+Cleveland,67,male,4,125,254,normal,163,no,3
+Cleveland,62,male,4,120,267,normal,99,yes,1
+Cleveland,65,male,4,110,248,lv hypertropy,158,no,1
+Cleveland,44,male,4,110,197,lv hypertropy,177,no,1
+Cleveland,65,female,3,160,360,lv hypertropy,151,no,0
+Cleveland,60,male,4,125,258,lv hypertropy,141,yes,1
+Cleveland,51,female,3,140,308,lv hypertropy,142,no,0
+Cleveland,48,male,2,130,245,lv hypertropy,180,no,0
+Cleveland,58,male,4,150,270,lv hypertropy,111,yes,3
+Cleveland,45,male,4,104,208,lv hypertropy,148,yes,0
+Cleveland,53,female,4,130,264,lv hypertropy,143,no,0
+Cleveland,39,male,3,140,321,lv hypertropy,182,no,0
+Cleveland,68,male,3,180,274,lv hypertropy,150,yes,3
+Cleveland,52,male,2,120,325,normal,172,no,0
+Cleveland,44,male,3,140,235,lv hypertropy,180,no,0
+Cleveland,47,male,3,138,257,lv hypertropy,156,no,0
+Cleveland,53,female,3,128,216,lv hypertropy,115,no,0
+Cleveland,53,female,4,138,234,lv hypertropy,160,no,0
+Cleveland,51,female,3,130,256,lv hypertropy,149,no,0
+Cleveland,66,male,4,120,302,lv hypertropy,151,no,0
+Cleveland,62,female,4,160,164,lv hypertropy,145,no,3
+Cleveland,62,male,3,130,231,normal,146,no,0
+Cleveland,44,female,3,108,141,normal,175,no,0
+Cleveland,63,female,3,135,252,lv hypertropy,172,no,0
+Cleveland,52,male,4,128,255,normal,161,yes,1
+Cleveland,59,male,4,110,239,lv hypertropy,142,yes,2
+Cleveland,60,female,4,150,258,lv hypertropy,157,no,3
+Cleveland,52,male,2,134,201,normal,158,no,0
+Cleveland,48,male,4,122,222,lv hypertropy,186,no,0
+Cleveland,45,male,4,115,260,lv hypertropy,185,no,0
+Cleveland,34,male,1,118,182,lv hypertropy,174,no,0
+Cleveland,57,female,4,128,303,lv hypertropy,159,no,0
+Cleveland,71,female,3,110,265,lv hypertropy,130,no,0
+Cleveland,49,male,3,120,188,normal,139,no,3
+Cleveland,54,male,2,108,309,normal,156,no,0
+Cleveland,59,male,4,140,177,normal,162,yes,2
+Cleveland,57,male,3,128,229,lv hypertropy,150,no,1
+Cleveland,61,male,4,120,260,normal,140,yes,2
+Cleveland,39,male,4,118,219,normal,140,no,3
+Cleveland,61,female,4,145,307,lv hypertropy,146,yes,1
+Cleveland,56,male,4,125,249,lv hypertropy,144,yes,1
+Cleveland,52,male,1,118,186,lv hypertropy,190,no,0
+Cleveland,43,female,4,132,341,lv hypertropy,136,yes,2
+Cleveland,62,female,3,130,263,normal,97,no,2
+Cleveland,41,male,2,135,203,normal,132,no,0
+Cleveland,58,male,3,140,211,lv hypertropy,165,no,0
+Cleveland,35,female,4,138,183,normal,182,no,0
+Cleveland,63,male,4,130,330,lv hypertropy,132,yes,3
+Cleveland,65,male,4,135,254,lv hypertropy,127,no,2
+Cleveland,48,male,4,130,256,lv hypertropy,150,yes,3
+Cleveland,63,female,4,150,407,lv hypertropy,154,no,4
+Cleveland,51,male,3,100,222,normal,143,yes,0
+Cleveland,55,male,4,140,217,normal,111,yes,3
+Cleveland,65,male,1,138,282,lv hypertropy,174,no,1
+Cleveland,45,female,2,130,234,lv hypertropy,175,no,0
+Cleveland,56,female,4,200,288,lv hypertropy,133,yes,3
+Cleveland,54,male,4,110,239,normal,126,yes,3
+Cleveland,44,male,2,120,220,normal,170,no,0
+Cleveland,62,female,4,124,209,normal,163,no,0
+Cleveland,54,male,3,120,258,lv hypertropy,147,no,0
+Cleveland,51,male,3,94,227,normal,154,yes,0
+Cleveland,29,male,2,130,204,lv hypertropy,202,no,0
+Cleveland,51,male,4,140,261,lv hypertropy,186,yes,0
+Cleveland,43,female,3,122,213,normal,165,no,0
+Cleveland,55,female,2,135,250,lv hypertropy,161,no,0
+Cleveland,70,male,4,145,174,normal,125,yes,4
+Cleveland,62,male,2,120,281,lv hypertropy,103,no,3
+Cleveland,35,male,4,120,198,normal,130,yes,1
+Cleveland,51,male,3,125,245,lv hypertropy,166,no,0
+Cleveland,59,male,2,140,221,normal,164,yes,0
+Cleveland,59,male,1,170,288,lv hypertropy,159,no,1
+Cleveland,52,male,2,128,205,normal,184,no,0
+Cleveland,64,male,3,125,309,normal,131,yes,1
+Cleveland,58,male,3,105,240,lv hypertropy,154,yes,0
+Cleveland,47,male,3,108,243,normal,152,no,1
+Cleveland,57,male,4,165,289,lv hypertropy,124,no,4
+Cleveland,41,male,3,112,250,normal,179,no,0
+Cleveland,45,male,2,128,308,lv hypertropy,170,no,0
+Cleveland,60,female,3,102,318,normal,160,no,0
+Cleveland,52,male,1,152,298,normal,178,no,0
+Cleveland,42,female,4,102,265,lv hypertropy,122,no,0
+Cleveland,67,female,3,115,564,lv hypertropy,160,no,0
+Cleveland,55,male,4,160,289,lv hypertropy,145,yes,4
+Cleveland,64,male,4,120,246,lv hypertropy,96,yes,3
+Cleveland,70,male,4,130,322,lv hypertropy,109,no,1
+Cleveland,51,male,4,140,299,normal,173,yes,1
+Cleveland,58,male,4,125,300,lv hypertropy,171,no,1
+Cleveland,60,male,4,140,293,lv hypertropy,170,no,2
+Cleveland,68,male,3,118,277,normal,151,no,0
+Cleveland,46,male,2,101,197,normal,156,no,0
+Cleveland,77,male,4,125,304,lv hypertropy,162,yes,4
+Cleveland,54,female,3,110,214,normal,158,no,0
+Cleveland,58,female,4,100,248,lv hypertropy,122,no,0
+Cleveland,48,male,3,124,255,normal,175,no,0
+Cleveland,57,male,4,132,207,normal,168,yes,0
+Cleveland,52,male,3,138,223,normal,169,no,0
+Cleveland,54,female,2,132,288,lv hypertropy,159,yes,0
+Cleveland,35,male,4,126,282,lv hypertropy,156,yes,1
+Cleveland,45,female,2,112,160,normal,138,no,0
+Cleveland,70,male,3,160,269,normal,112,yes,3
+Cleveland,53,male,4,142,226,lv hypertropy,111,yes,0
+Cleveland,59,female,4,174,249,normal,143,yes,1
+Cleveland,62,female,4,140,394,lv hypertropy,157,no,0
+Cleveland,64,male,4,145,212,lv hypertropy,132,no,4
+Cleveland,57,male,4,152,274,normal,88,yes,1
+Cleveland,52,male,4,108,233,normal,147,no,0
+Cleveland,56,male,4,132,184,lv hypertropy,105,yes,1
+Cleveland,43,male,3,130,315,normal,162,no,0
+Cleveland,53,male,3,130,246,lv hypertropy,173,no,0
+Cleveland,48,male,4,124,274,lv hypertropy,166,no,3
+Cleveland,56,female,4,134,409,lv hypertropy,150,yes,2
+Cleveland,42,male,1,148,244,lv hypertropy,178,no,0
+Cleveland,59,male,1,178,270,lv hypertropy,145,no,0
+Cleveland,60,female,4,158,305,lv hypertropy,161,no,1
+Cleveland,63,female,2,140,195,normal,179,no,0
+Cleveland,42,male,3,120,240,normal,194,no,0
+Cleveland,66,male,2,160,246,normal,120,yes,2
+Cleveland,54,male,2,192,283,lv hypertropy,195,no,1
+Cleveland,69,male,3,140,254,lv hypertropy,146,no,2
+Cleveland,50,male,3,129,196,normal,163,no,0
+Cleveland,51,male,4,140,298,normal,122,yes,3
+Cleveland,43,male,4,132,247,lv hypertropy,143,yes,1
+Cleveland,62,female,4,138,294,normal,106,no,2
+Cleveland,68,female,3,120,211,lv hypertropy,115,no,0
+Cleveland,67,male,4,100,299,lv hypertropy,125,yes,3
+Cleveland,69,male,1,160,234,lv hypertropy,131,no,0
+Cleveland,45,female,4,138,236,lv hypertropy,152,yes,0
+Cleveland,50,female,2,120,244,normal,162,no,0
+Cleveland,59,male,1,160,273,lv hypertropy,125,no,1
+Cleveland,50,female,4,110,254,lv hypertropy,159,no,0
+Cleveland,64,female,4,180,325,normal,154,yes,0
+Cleveland,57,male,3,150,126,normal,173,no,0
+Cleveland,64,female,3,140,313,normal,133,no,0
+Cleveland,43,male,4,110,211,normal,161,no,0
+Cleveland,45,male,4,142,309,lv hypertropy,147,yes,3
+Cleveland,58,male,4,128,259,lv hypertropy,130,yes,3
+Cleveland,50,male,4,144,200,lv hypertropy,126,yes,3
+Cleveland,55,male,2,130,262,normal,155,no,0
+Cleveland,62,female,4,150,244,normal,154,yes,1
+Cleveland,37,female,3,120,215,normal,170,no,0
+Cleveland,38,male,1,120,231,normal,182,yes,4
+Cleveland,41,male,3,130,214,lv hypertropy,168,no,0
+Cleveland,66,female,4,178,228,normal,165,yes,3
+Cleveland,52,male,4,112,230,normal,160,no,1
+Cleveland,56,male,1,120,193,lv hypertropy,162,no,0
+Cleveland,46,female,2,105,204,normal,172,no,0
+Cleveland,46,female,4,138,243,lv hypertropy,152,yes,0
+Cleveland,64,female,4,130,303,normal,122,no,0
+Cleveland,59,male,4,138,271,lv hypertropy,182,no,0
+Cleveland,41,female,3,112,268,lv hypertropy,172,yes,0
+Cleveland,54,female,3,108,267,lv hypertropy,167,no,0
+Cleveland,39,female,3,94,199,normal,179,no,0
+Cleveland,53,male,4,123,282,normal,95,yes,3
+Cleveland,63,female,4,108,269,normal,169,yes,1
+Cleveland,34,female,2,118,210,normal,192,no,0
+Cleveland,47,male,4,112,204,normal,143,no,0
+Cleveland,67,female,3,152,277,normal,172,no,0
+Cleveland,54,male,4,110,206,lv hypertropy,108,yes,3
+Cleveland,66,male,4,112,212,lv hypertropy,132,yes,2
+Cleveland,52,female,3,136,196,lv hypertropy,169,no,0
+Cleveland,55,female,4,180,327,abnormal,117,yes,2
+Cleveland,49,male,3,118,149,lv hypertropy,126,no,1
+Cleveland,74,female,2,120,269,lv hypertropy,121,yes,0
+Cleveland,54,female,3,160,201,normal,163,no,0
+Cleveland,54,male,4,122,286,lv hypertropy,116,yes,3
+Cleveland,56,male,4,130,283,lv hypertropy,103,yes,2
+Cleveland,46,male,4,120,249,lv hypertropy,144,no,1
+Cleveland,49,female,2,134,271,normal,162,no,0
+Cleveland,42,male,2,120,295,normal,162,no,0
+Cleveland,41,male,2,110,235,normal,153,no,0
+Cleveland,41,female,2,126,306,normal,163,no,0
+Cleveland,49,female,4,130,269,normal,163,no,0
+Cleveland,61,male,1,134,234,normal,145,no,2
+Cleveland,60,female,3,120,178,normal,96,no,0
+Cleveland,67,male,4,120,237,normal,71,no,2
+Cleveland,58,male,4,100,234,normal,156,no,2
+Cleveland,47,male,4,110,275,lv hypertropy,118,yes,1
+Cleveland,52,male,4,125,212,normal,168,no,3
+Cleveland,62,male,2,128,208,lv hypertropy,140,no,0
+Cleveland,57,male,4,110,201,normal,126,yes,0
+Cleveland,58,male,4,146,218,normal,105,no,1
+Cleveland,64,male,4,128,263,normal,105,yes,0
+Cleveland,51,female,3,120,295,lv hypertropy,157,no,0
+Cleveland,43,male,4,115,303,normal,181,no,0
+Cleveland,42,female,3,120,209,normal,173,no,0
+Cleveland,67,female,4,106,223,normal,142,no,0
+Cleveland,76,female,3,140,197,abnormal,116,no,0
+Cleveland,70,male,2,156,245,lv hypertropy,143,no,0
+Cleveland,57,male,2,124,261,normal,141,no,1
+Cleveland,44,female,3,118,242,normal,149,no,0
+Cleveland,58,female,2,136,319,lv hypertropy,152,no,3
+Cleveland,60,female,1,150,240,normal,171,no,0
+Cleveland,44,male,3,120,226,normal,169,no,0
+Cleveland,61,male,4,138,166,lv hypertropy,125,yes,4
+Cleveland,42,male,4,136,315,normal,125,yes,2
+Cleveland,52,male,4,128,204,normal,156,yes,2
+Cleveland,59,male,3,126,218,normal,134,no,2
+Cleveland,40,male,4,152,223,normal,181,no,1
+Cleveland,42,male,3,130,180,normal,150,no,0
+Cleveland,61,male,4,140,207,lv hypertropy,138,yes,1
+Cleveland,66,male,4,160,228,lv hypertropy,138,no,0
+Cleveland,46,male,4,140,311,normal,120,yes,2
+Cleveland,71,female,4,112,149,normal,125,no,0
+Cleveland,59,male,1,134,204,normal,162,no,1
+Cleveland,64,male,1,170,227,lv hypertropy,155,no,0
+Cleveland,66,female,3,146,278,lv hypertropy,152,no,0
+Cleveland,39,female,3,138,220,normal,152,no,0
+Cleveland,57,male,2,154,232,lv hypertropy,164,no,1
+Cleveland,58,female,4,130,197,normal,131,no,0
+Cleveland,57,male,4,110,335,normal,143,yes,2
+Cleveland,47,male,3,130,253,normal,179,no,0
+Cleveland,55,female,4,128,205,abnormal,130,yes,3
+Cleveland,35,male,2,122,192,normal,174,no,0
+Cleveland,61,male,4,148,203,normal,161,no,2
+Cleveland,58,male,4,114,318,abnormal,140,no,4
+Cleveland,58,female,4,170,225,lv hypertropy,146,yes,2
+Cleveland,58,male,2,125,220,normal,144,no,0
+Cleveland,56,male,2,130,221,lv hypertropy,163,no,0
+Cleveland,56,male,2,120,240,normal,169,no,0
+Cleveland,67,male,3,152,212,lv hypertropy,150,no,1
+Cleveland,55,female,2,132,342,normal,166,no,0
+Cleveland,44,male,4,120,169,normal,144,yes,2
+Cleveland,63,male,4,140,187,lv hypertropy,144,yes,2
+Cleveland,63,female,4,124,197,normal,136,yes,1
+Cleveland,41,male,2,120,157,normal,182,no,0
+Cleveland,59,male,4,164,176,lv hypertropy,90,no,3
+Cleveland,57,female,4,140,241,normal,123,yes,1
+Cleveland,45,male,1,110,264,normal,132,no,1
+Cleveland,68,male,4,144,193,normal,141,no,2
+Cleveland,57,male,4,130,131,normal,115,yes,3
+Cleveland,57,female,2,130,236,lv hypertropy,174,no,1
+Cleveland,38,male,3,138,175,normal,173,no,0
+LongbeachVA,63,male,4,140,260,abnormal,112,yes,2
+LongbeachVA,44,male,4,130,209,abnormal,127,no,0
+LongbeachVA,60,male,4,132,218,abnormal,140,yes,2
+LongbeachVA,55,male,4,142,228,abnormal,149,yes,1
+LongbeachVA,66,male,3,110,213,lv hypertropy,99,yes,0
+LongbeachVA,65,male,4,150,236,abnormal,105,yes,3
+LongbeachVA,60,male,2,160,267,abnormal,157,no,1
+LongbeachVA,56,male,2,126,166,abnormal,140,no,0
+LongbeachVA,62,male,4,120,220,abnormal,86,no,0
+LongbeachVA,63,male,4,170,177,normal,84,yes,4
+LongbeachVA,46,male,4,110,236,normal,125,yes,1
+LongbeachVA,60,male,4,130,186,abnormal,140,yes,1
+LongbeachVA,56,male,4,120,100,normal,120,yes,1
+LongbeachVA,77,male,4,124,171,abnormal,110,yes,3
+LongbeachVA,63,male,4,160,230,normal,105,yes,3
+LongbeachVA,59,male,4,122,233,normal,117,yes,1
+LongbeachVA,42,male,3,134,240,normal,160,no,0
+LongbeachVA,62,male,4,152,153,abnormal,97,yes,2
+LongbeachVA,56,male,2,124,224,normal,161,no,0
+LongbeachVA,57,male,4,130,311,abnormal,148,yes,1
+LongbeachVA,67,male,1,142,270,normal,125,no,3
+LongbeachVA,55,male,2,110,214,abnormal,180,no,0
+LongbeachVA,57,male,4,140,214,abnormal,144,yes,2
+LongbeachVA,54,male,4,136,220,normal,140,yes,3
+LongbeachVA,72,male,3,120,214,normal,102,yes,3
+LongbeachVA,75,male,4,170,203,abnormal,108,no,1
+LongbeachVA,60,male,4,142,216,normal,110,yes,2
+LongbeachVA,64,female,4,142,276,normal,140,yes,1
+LongbeachVA,58,male,4,132,458,normal,69,no,0
+LongbeachVA,61,male,4,146,241,normal,148,yes,2
+LongbeachVA,67,male,4,160,384,abnormal,130,yes,2
+LongbeachVA,62,male,4,135,297,normal,130,yes,2
+LongbeachVA,65,male,4,136,248,normal,140,yes,4
+LongbeachVA,63,male,4,130,308,normal,138,yes,2
+LongbeachVA,69,male,4,140,208,abnormal,140,yes,3
+LongbeachVA,62,male,4,158,210,normal,112,yes,1
+LongbeachVA,75,male,4,136,225,normal,112,yes,3
+LongbeachVA,40,male,3,106,240,normal,80,yes,0
+LongbeachVA,58,male,4,110,198,normal,110,no,1
+LongbeachVA,63,male,4,160,267,abnormal,88,yes,3
+LongbeachVA,62,male,1,112,258,abnormal,150,yes,1
+LongbeachVA,68,male,3,150,195,normal,132,no,1
+LongbeachVA,65,male,4,150,235,normal,120,yes,3
+LongbeachVA,63,male,4,96,305,abnormal,121,yes,1
+LongbeachVA,64,male,4,130,223,abnormal,128,no,0
+LongbeachVA,61,male,4,120,282,abnormal,135,yes,3
+LongbeachVA,50,male,4,144,349,lv hypertropy,120,yes,1
+LongbeachVA,55,male,4,150,160,abnormal,150,no,0
+LongbeachVA,55,male,4,116,186,abnormal,102,no,2
+LongbeachVA,63,male,4,110,252,abnormal,140,yes,2
+LongbeachVA,59,male,4,125,222,normal,135,yes,3
+LongbeachVA,74,male,4,150,258,abnormal,130,yes,3
+LongbeachVA,54,male,4,130,202,normal,112,yes,1
+LongbeachVA,57,male,4,110,197,lv hypertropy,100,no,0
+LongbeachVA,54,female,4,138,274,normal,105,yes,1
+LongbeachVA,70,male,4,170,192,abnormal,129,yes,2
+LongbeachVA,61,female,2,140,298,normal,120,yes,0
+LongbeachVA,48,male,3,132,220,abnormal,162,no,1
+LongbeachVA,61,male,1,142,200,abnormal,100,no,3
+LongbeachVA,66,male,4,112,261,normal,140,no,1
+LongbeachVA,55,male,4,172,260,normal,73,no,3
+LongbeachVA,62,male,3,120,220,lv hypertropy,86,no,0
+LongbeachVA,53,male,3,155,175,abnormal,160,no,0
+LongbeachVA,58,male,3,150,219,abnormal,118,yes,2
+LongbeachVA,75,male,4,160,310,normal,112,yes,0
+LongbeachVA,64,male,4,134,273,normal,102,yes,4
+LongbeachVA,59,male,4,140,274,normal,154,yes,0
+LongbeachVA,57,male,4,144,270,abnormal,160,yes,3
+LongbeachVA,41,male,4,150,171,normal,128,yes,0
+LongbeachVA,71,male,4,130,221,abnormal,115,yes,3
+LongbeachVA,38,male,4,110,289,normal,105,yes,1
+LongbeachVA,55,male,4,158,217,normal,110,yes,1
+LongbeachVA,56,male,4,128,223,abnormal,119,yes,2
+LongbeachVA,64,male,4,150,193,abnormal,135,yes,2
+LongbeachVA,57,male,4,156,173,lv hypertropy,119,yes,3
+LongbeachVA,69,male,4,122,216,lv hypertropy,84,yes,2
+LongbeachVA,57,male,2,180,285,abnormal,120,no,1
+LongbeachVA,53,male,4,124,243,normal,122,yes,1
+LongbeachVA,37,male,3,118,240,lv hypertropy,165,no,0
+LongbeachVA,67,male,4,140,219,abnormal,122,yes,3
+LongbeachVA,74,male,3,140,237,normal,94,no,1
+LongbeachVA,58,male,4,100,213,abnormal,110,no,0
+LongbeachVA,61,male,4,190,287,lv hypertropy,150,yes,4
+LongbeachVA,64,male,4,130,258,lv hypertropy,130,no,2
+LongbeachVA,58,male,4,160,256,lv hypertropy,113,yes,3
+LongbeachVA,60,male,4,130,186,lv hypertropy,140,yes,1
+LongbeachVA,57,male,4,122,264,lv hypertropy,100,no,1
+LongbeachVA,55,male,4,120,226,lv hypertropy,127,yes,1
+LongbeachVA,56,male,4,130,203,normal,98,no,1
+LongbeachVA,57,male,4,130,207,abnormal,96,yes,0
+LongbeachVA,61,male,3,120,337,normal,98,yes,3
+LongbeachVA,58,male,3,150,219,abnormal,118,yes,2
+LongbeachVA,74,male,4,155,310,normal,112,yes,2
+LongbeachVA,68,male,3,134,254,normal,151,yes,0
+LongbeachVA,51,female,4,114,258,lv hypertropy,96,no,0
+LongbeachVA,62,male,4,160,254,abnormal,108,yes,4
+LongbeachVA,53,male,4,144,300,abnormal,128,yes,3
+LongbeachVA,62,male,4,158,170,abnormal,138,yes,1
+LongbeachVA,46,male,4,134,310,normal,126,no,2
+LongbeachVA,54,female,4,127,333,abnormal,154,no,1
+LongbeachVA,55,male,4,122,223,abnormal,100,no,2
+LongbeachVA,62,male,2,120,254,lv hypertropy,93,yes,1

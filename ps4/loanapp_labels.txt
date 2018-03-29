@@ -1,0 +1,86 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\loanapp_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\loanapp.dta, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\loanapp.dta
+  obs:         1,989                          
+ vars:            59                          22 May 2002 11:25
+ size:       210,834                          
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+occ             byte    %9.0g                 occupancy
+loanamt         int     %9.0g                 loan amt in thousands
+action          byte    %9.0g                 type of action taken
+msa             int     %9.0g                 msa number of property
+suffolk         byte    %9.0g                 =1 if property in suffolk co.
+appinc          int     %9.0g                 applicant income, $1000s
+typur           byte    %9.0g                 type of purchaser of loan
+unit            byte    %9.0g                 number of units in property
+married         byte    %9.0g                 =1 if applicant married
+dep             byte    %9.0g                 number of dependents
+emp             byte    %9.0g                 years employed in line of work
+yjob            byte    %9.0g                 years at this job
+self            byte    %9.0g                 =1 if self employed
+atotinc         float   %9.0g                 total monthly income
+cototinc        float   %9.0g                 coapp total monthly income
+hexp            float   %9.0g                 propose housing expense
+price           float   %9.0g                 purchase price
+other           float   %9.0g                 other financing, $1000s
+liq             float   %9.0g                 liquid assets
+rep             byte    %9.0g                 no. of credit reports
+gdlin           int     %9.0g                 credit history meets guidelines
+lines           float   %9.0g                 no. of credit lines on reports
+mortg           byte    %9.0g                 credit history on mortgage paym
+cons            byte    %9.0g                 credit history on consumer stuf
+pubrec          byte    %9.0g                 =1 if filed bankruptcy
+hrat            float   %9.0g                 housing exp, % total inc
+obrat           float   %9.0g                 other oblgs, % total inc
+fixadj          byte    %9.0g                 fixed or adjustable rate?
+term            float   %9.0g                 term of loan in months
+apr             float   %9.0g                 appraised value
+prop            byte    %9.0g                 type of property
+inss            byte    %9.0g                 PMI sought
+inson           byte    %9.0g                 PMI approved
+gift            byte    %9.0g                 gift as down payment
+cosign          byte    %9.0g                 is there a cosigner
+unver           byte    %9.0g                 unverifiable info
+review          int     %9.0g                 number of times reviewed
+netw            float   %9.0g                 net worth
+unem            float   %9.0g                 unemployment rate by industry
+min30           byte    %9.0g                 =1 if minority pop. > 30%
+bd              byte    %9.0g                 =1 if boarded-up val > MSA med
+mi              byte    %9.0g                 =1 if tract inc > MSA median
+old             byte    %9.0g                 =1 if applic age > MSA median
+vr              byte    %9.0g                 =1 if tract vac rte > MSA med
+sch             byte    %9.0g                 =1 if > 12 years schooling
+black           byte    %9.0g                 =1 if applicant black
+hispan          byte    %9.0g                 =1 if applicant Hispanic
+male            byte    %9.0g                 =1 if applicant male
+reject          byte    %9.0g                 =1 if action == 3
+approve         byte    %9.0g                 =1 if action == 1 or 2
+mortno          byte    %9.0g                 no mortgage history
+mortperf        byte    %9.0g                 no late mort. payments
+mortlat1        byte    %9.0g                 one or two late payments
+mortlat2        byte    %9.0g                 > 2 late payments
+chist           byte    %9.0g                 =0 if accnts deliq. >= 60 days
+multi           byte    %9.0g                 =1 if two or more units
+loanprc         float   %9.0g                 amt/price
+thick           byte    %9.0g                 =1 if rep > 2
+white           byte    %9.0g                 =1 if applicant white
+---------------------------------------------------------------------------------------------------
+Sorted by: 
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\loanapp_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------
