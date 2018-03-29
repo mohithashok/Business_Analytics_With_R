@@ -1,0 +1,37 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\MEAP93_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\MEAP93.DTA, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\MEAP93.DTA
+  obs:           408                          
+ vars:            17                          16 Sep 1996 16:21
+ size:        25,296                          
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+lnchprg         float   %9.0g                 perc of studs in sch lnch prog
+enroll          int     %9.0g                 school enrollment
+staff           float   %9.0g                 staff per 1000 students
+expend          int     %9.0g                 expend. per stud, $
+salary          float   %9.0g                 avg. teacher salary, $
+benefits        int     %9.0g                 avg. teacher benefits, $
+droprate        float   %9.0g                 school dropout rate, perc
+gradrate        float   %9.0g                 school graduation rate, perc
+math10          float   %9.0g                 perc studs passing MEAP math
+sci11           float   %9.0g                 perc studs passing MEAP science
+---------------------------------------------------------------------------------------------------
+Sorted by: 
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\MEAP93_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------
