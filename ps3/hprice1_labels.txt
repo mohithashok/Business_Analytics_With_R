@@ -1,0 +1,33 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\hprice1_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\hprice1.dta, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\hprice1.dta
+  obs:            88                          
+ vars:            10                          17 Mar 2002 12:21
+ size:         2,816                          
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+price           float   %9.0g                 house price, $1000s
+assess          float   %9.0g                 assessed value, $1000s
+bdrms           byte    %9.0g                 number of bdrms
+lotsize         float   %9.0g                 size of lot in square feet
+sqrft           int     %9.0g                 size of house in square feet
+colonial        byte    %9.0g                 =1 if home is colonial style
+---------------------------------------------------------------------------------------------------
+Sorted by: 
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\hprice1_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------

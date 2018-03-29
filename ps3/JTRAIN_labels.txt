@@ -1,0 +1,38 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\JTRAIN_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\JTRAIN.DTA, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\JTRAIN.DTA
+  obs:           471                          
+ vars:            30                          17 Aug 1999 16:48
+ size:        42,861                          
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+year            int     %9.0g                 1987, 1988, or 1989
+fcode           float   %9.0g                 firm code number
+employ          int     %9.0g                 # employees at plant
+sales           float   %9.0g                 annual sales, $
+avgsal          float   %9.0g                 average employee salary
+scrap           float   %9.0g                 scrap rate (per 100 items)
+rework          float   %9.0g                 rework rate (per 100 items)
+tothrs          int     %9.0g                 total hours training
+union           byte    %9.0g                 =1 if unionized
+grant           byte    %9.0g                 = 1 if received grant
+totrain         int     %9.0g                 total employees trained
+---------------------------------------------------------------------------------------------------
+Sorted by: fcode  year
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\JTRAIN_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------

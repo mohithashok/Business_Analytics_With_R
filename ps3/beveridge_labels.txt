@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\beveridge_labels.txt
+  log type:  text
+ opened on:  17 Aug 2017, 13:13:20
+
+. use C:\Users\Jason\Desktop\data\beveridge.dta, clear
+
+. describe
+
+Contains data from C:\Users\Jason\Desktop\data\beveridge.dta
+  obs:           135                          
+ vars:             8                          29 Nov 2012 22:25
+ size:         4,860                          
+---------------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+---------------------------------------------------------------------------------------------------
+month           int     %d                    dec 2000 through feb 2012
+urate           double  %10.0g                unemployment rate, percent
+vrate           double  %10.0g                vacancy rate, percent
+t               int     %9.0g                 linear time trend
+---------------------------------------------------------------------------------------------------
+Sorted by: t
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Jason\Desktop\data2\beveridge_labels.txt
+  log type:  text
+ closed on:  17 Aug 2017, 13:13:20
+---------------------------------------------------------------------------------------------------
